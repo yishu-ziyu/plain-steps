@@ -1,0 +1,12 @@
+{
+  "name": "plain-steps",
+  "version": "0.1.0",
+  "description": "每一步工具调用在对话里只显示一行中文说明和结果；成功的输出不展开，失败只露最后几行；/steps 切回完整显示",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "yishu-ziyu",
+    "url": "https://github.com/yishu-ziyu"
+  },
+  "repository": "https://github.com/yishu-ziyu/plain-steps",
+  "license": "MIT"
+}

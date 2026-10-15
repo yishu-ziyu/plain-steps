@@ -1,0 +1,13 @@
+{
+  "name": "plain-steps",
+  "description": "Claude Code mod：替你读完每一步的命令和输出，只留下判断要用的一行。",
+  "owner": {
+    "name": "yishu-ziyu"
+  },
+  "plugins": [
+    {
+      "name": "plain-steps",
+      "source": "./"
+    }
+  ]
+}
